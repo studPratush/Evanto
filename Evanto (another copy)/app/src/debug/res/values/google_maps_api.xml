@@ -1,0 +1,26 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need Description Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=6C:88:AE:9D:EB:88:E1:10:B0:EE:AE:3E:BE:84:DB:E3:C8:2F:50:2C%3Bcom.example.root.evanto
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    6C:88:AE:9D:EB:88:E1:10:B0:EE:AE:3E:BE:84:DB:E3:C8:2F:50:2C
+
+    SHA-1 certificate fingerprint:
+    6C:88:AE:9D:EB:88:E1:10:B0:EE:AE:3E:BE:84:DB:E3:C8:2F:50:2C
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyDf2mG0o9uUGWGBS67r7jmwQ-1Y7Lwpqi8
+    </string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "457757692470",
+    "firebase_url": "https://evanto-99ffe.firebaseio.com",
+    "project_id": "evanto-99ffe",
+    "storage_bucket": "evanto-99ffe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457757692470:android:69039928759fafbb",
+        "android_client_info": {
+          "package_name": "com.example.root.evanto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457757692470-udiv6fdsgmf2h88mc0397q60m2uas84e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.root.evanto",
+            "certificate_hash": "6c88ae9deb88e110b0eeae3ebe84dbe3c82f502c"
+          }
+        },
+        {
+          "client_id": "457757692470-i0euedopn8fj8036lid0g8j0tjp1q454.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl1EkCvKkC8hMo8g7ZvS5fUHw3-MSLrR0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457757692470-i0euedopn8fj8036lid0g8j0tjp1q454.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
